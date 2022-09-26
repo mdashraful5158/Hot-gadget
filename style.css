@@ -1,0 +1,13 @@
+.top{background-color:white;}
+.slide img{width:454px; height: 507px;}
+.buy-now-btn{color: white; background-color: black;}
+.card{border: none;box-shadow: 5px 5px 10px lightgray;border-radius: 10px;}
+.smartphone{margin-top: 20px;}
+.laptop{margin-top: 60px;}
+.section{width: 350;height: 450px;}
+.cat{margin-top: 60px;margin-bottom: 30px;}
+.botm{box-shadow: 5px 5px 10px lightgrey; width: 250px;height: 292px;border-radius: 10px;}
+.mar{margin-left: 30px}
+.down{margin-bottom: 60px;}
+.text{text-align: center;}
+
